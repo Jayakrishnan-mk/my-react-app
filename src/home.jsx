@@ -34,7 +34,6 @@ function Home() {
 }
 
 function YourComponent() {
-    console.log('component')
     return <div>This is your component.</div>;
 }
 
